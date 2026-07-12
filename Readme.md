@@ -28,7 +28,7 @@ It displays:
 
 ## 2. Road Speed Analysis Dashboard
 
-This dashboard shows the median speed for each road segment.
+This dashboard shows the median speed in km/h for each road segment.
 Each segment is color‑coded based on its median speed value.
 
 You can select a specific road segment using the filter in the top‑right corner to inspect it in detail.
