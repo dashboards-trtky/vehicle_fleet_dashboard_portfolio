@@ -6,6 +6,9 @@ This project contains two interactive dashboards:
 - **Trip Visualization Dashboard** – shows the reconstructed route, start and end points.
 - **Median Road Speed Dashboard** – displays median speed values for each road segment.
 
+**These dashboards help to get a better overview of the vehicle fleet** 
+
+
 You can view both dashboards on Tableau Public:
 
 **Dashboard Link:  https://public.tableau.com/app/profile/timur.kaygusuz/viz/VehicleFleetDashboard/TripVisualizerDashboard#1**
