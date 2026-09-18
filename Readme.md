@@ -1,11 +1,12 @@
 # Vehicle Fleet Dashboard 
 
 
-The tableau file (.twb) contains two dashboards:
-<br>
-- Trip Visualization Dashboard 
-- Median Road Speed Dashboard
-<br>
+This project contains two interactive dashboards:
+
+- **Trip Visualization Dashboard** – shows the reconstructed route, start and end points.
+- **Median Road Speed Dashboard** – displays median speed values for each road segment.
+
+You can view both dashboards on Tableau Public:
 
 **Dashboard Link:  https://public.tableau.com/app/profile/timur.kaygusuz/viz/VehicleFleetDashboard/TripVisualizerDashboard#1**
 
