@@ -4,8 +4,10 @@
 The tableau file (.twb) contains two dashboards:
 <br>
 - Trip Visualization Dashboard 
-- Road Speed Analysis Dashboard
+- Median Road Speed Dashboard
 <br>
+
+**Dashboard Link:  https://public.tableau.com/app/profile/timur.kaygusuz/viz/VehicleFleetDashboard/TripVisualizerDashboard#1**
 
 
 ## 1. Trip Visualization Dashboard
